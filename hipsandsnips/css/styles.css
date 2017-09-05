@@ -123,9 +123,8 @@ section {
   border-bottom: 1px solid #999;
   text-align: center;
   padding: 100px 0 0;
-  height: 800px;
   width: 100%;
-	overflow: auto;
+  overflow: auto;
   }
 
 
@@ -144,7 +143,7 @@ p {
 --------------------------------------------- */
 
 header {
-  background: #f4421a;
+  background: #ce5555;
   position: fixed;
   z-index: 3;
   width: 100%;
@@ -348,7 +347,7 @@ html[xmlns] .slides {display: block;}
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   border-top: 1px solid white;
   text-decoration: none;
-  background: #f4421a;
+  background: #424242;
   padding: 0.7em 1em;
   color: #fff;
   width: 100%;
